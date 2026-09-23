@@ -111,11 +111,13 @@ Single table `delivery` with 20 columns:
 
 ## Files
 
+## Files
+
 | File | Description |
 |------|-------------|
 | `README.md` | Project documentation |
-| `schema.sql` | Database and table creation |
-| `analysis.sql` | All 27 analysis queries |
+| `food_delivery_analytics.sql` | Database setup and all 27 analysis queries |
+| `food_delivery_data.csv` | Dataset (45,593 records, 20 columns) |
 
 ---
 
